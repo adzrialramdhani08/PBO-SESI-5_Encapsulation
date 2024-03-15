@@ -1,0 +1,17 @@
+1.
+
+ABC adalah objek dari kelas RightTriangle, yang berarti ia adalah segitiga siku-siku. 
+Kelas RightTriangle mungkin memiliki metode dan properti khusus yang hanya relevan untuk segitiga siku-siku, 
+seperti menghitung luas atau keliling dengan rumus yang berbeda dari segitiga umum.
+
+2.
+
+BCD juga adalah objek dari kelas RightTriangle, yang menunjukkan bahwa ia juga merupakan segitiga siku-siku. 
+Ini menunjukkan bahwa kelas RightTriangle mungkin digunakan untuk membuat segitiga siku-siku dengan cara yang sama seperti kelas Triangle, 
+tetapi dengan asumsi bahwa segitiga tersebut adalah segitiga siku-siku.
+
+3.
+
+CDE adalah objek dari kelas Triangle, yang berarti ia adalah segitiga umum. 
+Kelas Triangle mungkin memiliki metode dan properti yang berbeda dari RightTriangle, 
+seperti menghitung luas atau keliling dengan rumus yang berbeda untuk segitiga umum.
